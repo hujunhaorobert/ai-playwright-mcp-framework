@@ -1,7 +1,7 @@
-# ING Bank Playwright Automation Test Framework
-   ING Bank Web App Automation Tests Framework using Playwright, POM, TypeScript, MCP & AI Agents (Planner, Generator, Healer).
+# AI Playwright MCP Automation Test Framework
+   AI Web App Automation Tests Framework using Playwright, POM, TypeScript, MCP & AI Agents (Planner, Generator, Healer).
 
-   The AI Agents amplifies whatever the SDET already is. If the SDET is strong at fundamentals, the AI makes them stronger. If the SDET is weak at fundamentals, the AI ships weakness faster.
+   The AI Agents amplifies whatever the SDET(Software Development Engineer in Test) already is. If the SDET is strong at fundamentals, the AI makes them stronger. If the SDET is weak at fundamentals, the AI ships weakness faster. SDETs increasingly need to understand not only how to write tests, but also how to evaluate whether AI-generated tests are trustworthy.
 
    Three habits SDET worth building:
 
