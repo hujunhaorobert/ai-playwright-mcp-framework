@@ -1,12 +1,12 @@
 {
-  "name": "ing-playwright-mcp-ai-agent",
+  "name": "ai-playwright-mcp-framework",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "",
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.65.1",
