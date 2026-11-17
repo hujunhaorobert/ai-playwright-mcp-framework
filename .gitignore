@@ -11,6 +11,10 @@ playwright/.auth/
 playwright/.local-browsers/
 playwright/.local-browsers.json
 .playwright-mcp/
+dist/
+.DS_Store
+.env
+.env.*
 
 # Local logs
 logs/
